@@ -1,0 +1,5 @@
+video.mkv
+model.zip
+model.pth
+license_plate_detection_model_v*.zip
+output/

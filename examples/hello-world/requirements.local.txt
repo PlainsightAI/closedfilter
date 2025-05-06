@@ -1,0 +1,5 @@
+./filters/filter_runtime-1.4.25-py3-none-any.whl
+./filters/filter_license_plate_object_detection-0.2.0-py3-none-any.whl
+./filters/filter_license_annotation_demo-0.3.0-py3-none-any.whl
+./filters/filter_optical_character_recognition-0.4.15-py3-none-any.whl
+./filters/crop_filter-0.5.0-py3-none-any.whl
