@@ -1,0 +1,1 @@
+# Moved to [Plainsight/OpenFilter](https://github.com/PlainsightAI/openfilter)
